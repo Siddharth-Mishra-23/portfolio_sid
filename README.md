@@ -1,36 +1,128 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Siddharth Mishra Portfolio
 
-## Getting Started
+🔥 Live Portfolio: [https://your-vercel-link.vercel.app](https://portfolio-siddharth-mishra.vercel.app/)
 
-First, run the development server:
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Siddharth Mishra** — a Backend-focused Developer passionate about building **scalable systems**, **microservices**, and **real-time applications**.
+
+💡 Skilled in:
+
+* Java + Spring Boot
+* REST APIs & Microservices
+* Kafka / RabbitMQ
+* System Design & DSA
+
+---
+
+## ✨ Features
+
+* ⚡ Modern UI with animations (Framer Motion)
+* 🎯 Interactive 3D tilt effects
+* 🤖 Smart AI Chatbot assistant
+* 🌌 Particle background effects
+* 📱 Fully responsive design
+* 🔥 Clean & optimized performance
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend:**
+
+* Next.js 16
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+**Other:**
+
+* Vercel (Deployment)
+* GitHub (Version Control)
+
+---
+
+## 📂 Projects Included
+
+### 🔹 Smart Notification Orchestrator
+
+* Multi-channel notifications (Email, SMS, WhatsApp)
+* Kafka / RabbitMQ based async system
+
+### 🔹 Real-Time Order Processing System
+
+* Event-driven microservices architecture
+* API Gateway + Kafka integration
+
+### 🔹 Resume Analyzer
+
+* Resume parsing + skill matching
+* OTP-based email verification
+
+### 🔹 Chatting Application
+
+* Real-time messaging using WebSockets
+* One-to-one & group chat support
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](./public/profile.jpg)
+
+---
+
+## ⚙️ Getting Started
+
+Clone the repo:
+
+```bash
+git clone https://github.com/your-username/portfolio_sid.git
+cd portfolio_sid
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open 👉 http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌍 Deployment
 
-## Learn More
+Deployed on **Vercel** 🚀
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📬 Contact
 
-## Deploy on Vercel
+📧 Email: [talk2sid76@gmail.com](mailto:talk2sid76@gmail.com)
+📱 Phone: +91-XXXXXXXXXX
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ⭐ Show Your Support
+
+If you like this project:
+
+👉 Star the repo
+👉 Share with others
+
+---
+
+🔥 Built with passion by Siddharth Mishra
