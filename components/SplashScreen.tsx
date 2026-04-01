@@ -32,7 +32,7 @@ export default function SplashScreen({ onFinish }: any) {
           textShadow: "0 0 40px rgba(168,85,247,0.6)",
         }}
       >
-        WELCOME TO <br /> SIDDHARTH'S PORTFOLIO
+        WELCOME <br /> TECHIES
       </motion.h1>
 
       {/* LOADING BAR */}
